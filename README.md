@@ -1,5 +1,3 @@
-# recommended-websites
-A curated list of recommended websites for flavor, tech, and lifestyle.
 # Recommended Websites
 
 A curated list of recommended websites covering various themes, including flavor, technology, and lifestyle.
